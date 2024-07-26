@@ -18,4 +18,6 @@ This project is a full-stack application that allows users to manage and analyze
 ## Usage
 (Usage instructions will be added as features are implemented)
 
-## Contributinecho ## Contributinecho ## Contributinecho ## Contributinecho ## Contribions are not currently being accepted.
+## Contributions
+This project is part of a learning exercise.
+
